@@ -1,0 +1,3 @@
+include ':myBannerAdlibrary'
+include ':app'
+rootProject.name = "HmsBannerAdApp"
